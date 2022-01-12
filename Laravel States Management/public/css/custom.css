@@ -1,0 +1,52 @@
+html body
+{
+    background: rgb(49, 3, 3);
+}
+html body div#app nav
+{
+    background: rgb(43, 3, 3);
+}
+html body div#app div.container a
+{
+    color: white;
+}
+body div #buttons
+{
+    display: flex;
+}
+body div#buttons a#edit
+{
+    margin: 0 1vw 0 0; 
+}
+body div#buttons a#edit:hover
+{
+    color: black;
+}
+body div.card-header a#state 
+{
+    margin: 0 15px 0 0;
+}
+body div#navbarSupportedContent ul li#navbar-links a
+{
+    font-size: 14px;
+    margin-top: 2px;
+    text-decoration: none;
+    
+}
+body div#navbarSupportedContent ul li#navbar-links a:hover
+{
+    font-size: 14px;
+    margin-top: 2px;
+    text-decoration: none;
+    color: yellow;
+}
+body div.card-header
+{
+    background: rgb(43,3,3);
+    color: white;
+}
+body div.card-body
+{
+    background: rgb(49,3,3);
+    color: white;
+}

@@ -1,0 +1,47 @@
+body div.form{
+    color: white;
+
+}
+header {
+    background: #212529;
+    text-align: center;
+    color: white;
+    padding: 0 0 7px 0;
+}header hr{
+    background-color: white;
+    color: white;
+    height: 0.1px;
+}
+body div.form form div.form-group div.col-sm-10 button{
+    background: #212529;
+    color:white;
+    padding: 0.6vw 2.5vw 0.6vw 2.5vw;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    
+}
+body footer {
+    background: #212529;
+    color: white;
+    text-align: center;
+    width: 100%;
+    margin: -0% -1%;
+    margin-bottom: -1%;
+
+}body footer hr{ 
+    color: white;
+    background-color: white;
+    width: 101%;    
+    
+}body div.msg{
+    text-align: center;
+    color: white;
+    border-style: solid;
+    border-width: 5px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+}

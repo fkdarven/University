@@ -1,0 +1,48 @@
+html, body{
+    height: 100%;
+    margin: 0;
+}html div.data{
+    min-height: 100%;
+    margin-bottom: -50px;
+}body header{
+    text-align: center;
+    background:#212529;
+    color: white;
+    padding: 0 0 5vw 0;
+}   body header hr{
+    background-color: white;
+    height: 0.1px;
+}body header div.new{
+    padding: 40px 0px 0px 0px;
+}body header h5 a{   
+    color: white;
+    margin-left: 80vw;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    background: #212529;
+    padding: 0.6vw 2.5vw 0.6vw 2.5vw;
+}body table tr a {
+    border-style: solid;
+    padding: 3px 7px 3px 7px;
+    margin: 0 2px 0 0;
+    border-width: 1px;
+    color: white;
+}body table tr a:hover{
+    border-color: #878787;
+    color: #878787;
+}body header h5 a:hover{
+    color: #878787;
+    border-color: #878787;
+}body div.push{
+    height:50px;
+}body footer {
+    background: #212529;
+    color: white;
+    text-align: center;
+    height:50px;
+}body footer hr{
+    background: white;
+    height: 0.1px;
+    width: 100%;
+}
